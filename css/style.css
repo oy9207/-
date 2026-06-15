@@ -387,3 +387,24 @@ button:hover {
     text-decoration: underline !important; 
 }
 
+
+
+.bottom-download-btn {
+    margin-top: 80px !important; 
+    display: inline-block;
+}
+
+
+.btn-container {
+    display: flex;           
+    flex-direction: column;  
+    align-items: center;    
+    gap: 10px;              
+    margin-top: 50px;
+}
+
+.arrow-up {
+    font-size: 50px;         
+    color: #ca1111;            
+    font-weight: bold;
+}
